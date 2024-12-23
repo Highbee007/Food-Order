@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Food-Order.git/static/css/main.b3e3c403.css",
+    "main.js": "/Food-Order.git/static/js/main.fad616ea.js",
+    "static/media/family1.jpg": "/Food-Order.git/static/media/family1.96443aa21cbd875ff9ed.jpg",
+    "static/media/africa1.jpg": "/Food-Order.git/static/media/africa1.204cd80b902368002fd1.jpg",
+    "static/media/family2.jpg": "/Food-Order.git/static/media/family2.ba90354ce040cb6ef1ff.jpg",
+    "static/media/africa2.jpg": "/Food-Order.git/static/media/africa2.e8bce24a4dc8915f85d7.jpg",
+    "static/media/header.jpg": "/Food-Order.git/static/media/header.7d56bcc5e276d10f61b9.jpg",
+    "static/media/desserts1.jpg": "/Food-Order.git/static/media/desserts1.c685faad1e9fcc5e95c6.jpg",
+    "static/media/breakfast.jpg": "/Food-Order.git/static/media/breakfast.310bc79a44ef557dd204.jpg",
+    "static/media/image1.jpg": "/Food-Order.git/static/media/image1.12dcab83dfbe903e234d.jpg",
+    "static/media/desserts2.jpg": "/Food-Order.git/static/media/desserts2.a3f4cdfcd296c298f3c8.jpg",
+    "static/media/image2.jpg": "/Food-Order.git/static/media/image2.f8d45e46a5000a40f3f3.jpg",
+    "static/media/breakfast1.jpg": "/Food-Order.git/static/media/breakfast1.3ba554d4b09bab2f4977.jpg",
+    "index.html": "/Food-Order.git/index.html",
+    "main.b3e3c403.css.map": "/Food-Order.git/static/css/main.b3e3c403.css.map",
+    "main.fad616ea.js.map": "/Food-Order.git/static/js/main.fad616ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e3c403.css",
+    "static/js/main.fad616ea.js"
+  ]
+}
