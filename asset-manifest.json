@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/highbee-kitchen/static/css/main.85629ab2.css",
-    "main.js": "/highbee-kitchen/static/js/main.1d869301.js",
-    "static/media/family1.jpg": "/highbee-kitchen/static/media/family1.96443aa21cbd875ff9ed.jpg",
-    "static/media/africa1.jpg": "/highbee-kitchen/static/media/africa1.204cd80b902368002fd1.jpg",
-    "static/media/family2.jpg": "/highbee-kitchen/static/media/family2.ba90354ce040cb6ef1ff.jpg",
-    "static/media/africa2.jpg": "/highbee-kitchen/static/media/africa2.e8bce24a4dc8915f85d7.jpg",
-    "static/media/header.jpg": "/highbee-kitchen/static/media/header.7d56bcc5e276d10f61b9.jpg",
-    "static/media/desserts1.jpg": "/highbee-kitchen/static/media/desserts1.c685faad1e9fcc5e95c6.jpg",
-    "static/media/breakfast.jpg": "/highbee-kitchen/static/media/breakfast.310bc79a44ef557dd204.jpg",
-    "static/media/image1.jpg": "/highbee-kitchen/static/media/image1.12dcab83dfbe903e234d.jpg",
-    "static/media/desserts2.jpg": "/highbee-kitchen/static/media/desserts2.a3f4cdfcd296c298f3c8.jpg",
-    "static/media/image2.jpg": "/highbee-kitchen/static/media/image2.f8d45e46a5000a40f3f3.jpg",
-    "static/media/breakfast1.jpg": "/highbee-kitchen/static/media/breakfast1.3ba554d4b09bab2f4977.jpg",
-    "index.html": "/highbee-kitchen/index.html",
-    "main.85629ab2.css.map": "/highbee-kitchen/static/css/main.85629ab2.css.map",
-    "main.1d869301.js.map": "/highbee-kitchen/static/js/main.1d869301.js.map"
+    "main.css": "/Food-Order/static/css/main.85629ab2.css",
+    "main.js": "/Food-Order/static/js/main.f9cac5c6.js",
+    "static/media/family1.jpg": "/Food-Order/static/media/family1.96443aa21cbd875ff9ed.jpg",
+    "static/media/africa1.jpg": "/Food-Order/static/media/africa1.204cd80b902368002fd1.jpg",
+    "static/media/family2.jpg": "/Food-Order/static/media/family2.ba90354ce040cb6ef1ff.jpg",
+    "static/media/africa2.jpg": "/Food-Order/static/media/africa2.e8bce24a4dc8915f85d7.jpg",
+    "static/media/header.jpg": "/Food-Order/static/media/header.7d56bcc5e276d10f61b9.jpg",
+    "static/media/desserts1.jpg": "/Food-Order/static/media/desserts1.c685faad1e9fcc5e95c6.jpg",
+    "static/media/breakfast.jpg": "/Food-Order/static/media/breakfast.310bc79a44ef557dd204.jpg",
+    "static/media/image1.jpg": "/Food-Order/static/media/image1.12dcab83dfbe903e234d.jpg",
+    "static/media/desserts2.jpg": "/Food-Order/static/media/desserts2.a3f4cdfcd296c298f3c8.jpg",
+    "static/media/image2.jpg": "/Food-Order/static/media/image2.f8d45e46a5000a40f3f3.jpg",
+    "static/media/breakfast1.jpg": "/Food-Order/static/media/breakfast1.3ba554d4b09bab2f4977.jpg",
+    "index.html": "/Food-Order/index.html",
+    "main.85629ab2.css.map": "/Food-Order/static/css/main.85629ab2.css.map",
+    "main.f9cac5c6.js.map": "/Food-Order/static/js/main.f9cac5c6.js.map"
   },
   "entrypoints": [
     "static/css/main.85629ab2.css",
-    "static/js/main.1d869301.js"
+    "static/js/main.f9cac5c6.js"
   ]
 }
